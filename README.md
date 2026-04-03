@@ -23,8 +23,8 @@ This repository contains our data-driven analysis of the best neighborhood in Pi
 - `final_combined_notebook.ipynb` - Final presentation/report notebook combining all three metrics
 
 ## Datasets Used
-1. Pittsburgh Police Incident Blotter  
-   [Paste WPRDC link here]
+1. Pittsburgh Monthly Criminal Activity  
+   [https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard]
 
 2. Condemned Properties Dataset  
    [Paste WPRDC link here]
