@@ -30,7 +30,7 @@ This repository contains our data-driven analysis of the best neighborhood in Pi
    [Paste WPRDC link here]
 
 3. Public Water Supplier Service Dataset  
-   [Paste WPRDC link here]
+   [https://data.wprdc.org/dataset/pa-public-water-systems]
 
 ## One-Sentence Summary
 We used three neighborhood-based datasets to determine the best neighborhood in Pittsburgh by combining safety, housing condition, and infrastructure quality.
