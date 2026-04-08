@@ -6,7 +6,7 @@
 ## Team Members
 - Joey Maslanka - jjm335@pitt.edu
 - Eric Wang - erw197@pitt.edu
-- [Teammate 2 Name] - [their Pitt email]
+- Warren Schrader - wjs74@pitt.edu
 
 ## Canvas Group Number
 Group 8
@@ -27,7 +27,7 @@ This repository contains our data-driven analysis of the best neighborhood in Pi
    [https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard]
 
 2. Condemned Properties Dataset  
-   [Paste WPRDC link here]
+   [https://data.wprdc.org/dataset/condemned-properties]
 
 3. Public Water Supplier Service Dataset  
    [https://data.wprdc.org/dataset/pa-public-water-systems]
