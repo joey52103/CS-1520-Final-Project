@@ -5,7 +5,7 @@
 
 ## Team Members
 - Joey Maslanka - jjm335@pitt.edu
-- [Teammate 1 Name] - [their Pitt email]
+- Eric Wang - erw197@pitt.edu
 - [Teammate 2 Name] - [their Pitt email]
 
 ## Canvas Group Number
