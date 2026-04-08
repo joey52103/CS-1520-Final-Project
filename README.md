@@ -16,7 +16,7 @@ This repository contains our data-driven analysis of the best neighborhood in Pi
 
 ## Individual Notebooks
 - `individual_notebooks/joey_crime_safety.ipynb` - Joey's individual analysis using crime/safety data
-- `[replace with name of notebook]` - Warren's individual analysis using condemned properties data
+- `condemned_properties_Warren.ipynb` - Warren's individual analysis using condemned properties data
 - `individual_notebooks/water_analysis_Eric.ipynb` - Eric's individual analysis using public water supplier service data
 
 ## Combined Notebook
