@@ -29,8 +29,8 @@ This repository contains our data-driven analysis of the best neighborhood in Pi
 2. Condemned Properties Dataset  
    [https://data.wprdc.org/dataset/condemned-properties]
 
-3. Public Water Supplier Service Dataset  
-   [https://data.wprdc.org/dataset/pa-public-water-systems]
+3. Pittsburgh Childhood Lead Exposure Dataset
+   [https://data.wprdc.org/dataset/childhood-lead-exposure]
 
 ## One-Sentence Summary
 We used three neighborhood-based datasets to determine the best neighborhood in Pittsburgh by combining safety, housing condition, and infrastructure quality.
