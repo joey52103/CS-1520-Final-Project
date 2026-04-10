@@ -1,7 +1,7 @@
 # CS-1520 Final Project
 
 ## Team Name
-[Need to decide]
+Pittsburgh Health and Safety Unit
 
 ## Team Members
 - Joey Maslanka - jjm335@pitt.edu
